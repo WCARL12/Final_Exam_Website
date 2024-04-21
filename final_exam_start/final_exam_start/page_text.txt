@@ -1,0 +1,55 @@
+This document contains most of the text found on the website.
+
+note: the blue color used throughout is rgb(128, 213, 250)
+
+
+[MAIN]
+
+Web Dev 1520 - The Final
+
+Welcome to the home page for the CP1890 CP1520 final exam.
+
+Some Guidelines
+
+Note: See exam specifications on D2L for more details.
+Fonts
+
+All of the paragraph text on this page should use a serif font, such as Georgia or Times New Roman.
+
+The headings should use a sans-serif font, such as Arial.
+
+
+[ASIDE]
+
+Good CSS Habits
+
+Remember that C is for Cascade
+
+Write your CSS as if you will need to show/explain it to someone else.
+
+Do not use !important
+
+Credit: reddit  (use link: https://www.reddit.com/r/css/comments/8c01c4/learning_css_what_are_some_good_habits_to_get_into/)
+
+
+[FOOTER]
+
+This page was created on April 19, 2024
+
+(copyright symbol) [Your name]
+
+
+[contact.html]
+
+Contact
+
+Please share your thoughts about the course with me. Note: This form is not operational.
+
+
+[about.html]
+
+About
+
+Here is the evaluation scheme for this course.
+
+(get table data from screenshot)
