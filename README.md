@@ -1,4 +1,4 @@
-# Final_Exam_Websit
+# Final_Exam_Website
 <h3>Website Description:</h3>
 <p>For the final exams of web development, I had to replicate a website in 3 hours and successfully did</p>
 <ul>
