@@ -4,6 +4,6 @@
 <ul>
   <li>Managed to make it responsive for multiple devices</li>
   <li>Implemented navigation bars successfully and layout properly</li>
-  <li>Successful use of flexbox and hover animations=</li>
+  <li>Successful use of flexbox and hover animations</li>
 </ul>
 
